@@ -1,11 +1,11 @@
-About r-atsa
-============
+About r-atsa-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-atsa-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=aTSA
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-atsa-feedstock/blob/main/LICENSE.txt)
 
 Summary: Contains some tools for testing, analyzing time series data and fitting popular time series models such as ARIMA, Moving Average and Holt Winters, etc. Most functions also provide nice and clear outputs like SAS does, such as identify, estimate and forecast, which are the same statements in PROC ARIMA in SAS.
 
